@@ -2,7 +2,7 @@
 ## Description
 These digitized audio recordings present some of the memorable speakers and sessions from the early years of the Conference on World Affairs (1959-1994), including R. Buckminster Fuller, Henry Kissinger, Yitzhak Rabin, Marya Mannes, Huey P. Newton, Margot Adler, Ralph Nader, and I. F. Stone. Year by year, CWA recordings encapsulate the historic tenor of the times, as participants explore topics as diverse as civil rights, Castro, black power, the War on Poverty, student revolutions of the 1960s, Nixon, the women's movement, civil war in El Salvador, the fight for freedom in South Africa, the exploration of space, sexual liberation, nuclear deterrence, and the future of energy, music, language, jazz, and the arts. 
 ## DOI
-DOI: https://doi.org/10.25810/63mq-9r87
+https://doi.org/10.25810/63mq-9r87
 
 ## Metadata
 ### Collection Name
