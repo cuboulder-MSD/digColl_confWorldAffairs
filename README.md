@@ -62,3 +62,5 @@ ArchivesSpace at CU Boulder; Conference on World Affairs collection information:
 
 ## Notes
 Please note that the metadata contained in this repository may not be the most up to date, but is updated on a continuing basis.
+
+Contributor names that appear in brackets, for example [Diamond, Edwin], are panelists that were listed on the program and had intended to speak, but they did not attend the panel discussion.
