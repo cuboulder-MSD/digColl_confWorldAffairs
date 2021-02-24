@@ -56,6 +56,8 @@ https://doi.org/10.25810/63mq-9r87
 ### extensionAuthorityUsed
 
 ## Resources
+Conference on World Affairs webpage; including archival programs from 2014-Present: https://www.colorado.edu/cwa/
+ArchivesSpace at CU Boulder; Conference on World Affairs collection information: https://archives.colorado.edu/repositories/2/resources/958
 
 ## Notes
 Please note that the metadata contained in this repository may not be the most up to date, but is updated on a continuing basis.
