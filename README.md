@@ -55,5 +55,7 @@ https://doi.org/10.25810/63mq-9r87
 ### extension
 ### extensionAuthorityUsed
 
+## Resources
+
 ## Notes
 Please note that the metadata contained in this repository may not be the most up to date, but is updated on a continuing basis.
