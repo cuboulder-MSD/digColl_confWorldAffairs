@@ -57,6 +57,7 @@ https://doi.org/10.25810/63mq-9r87
 
 ## Resources
 Conference on World Affairs webpage; including archival programs from 2014-Present: https://www.colorado.edu/cwa/
+
 ArchivesSpace at CU Boulder; Conference on World Affairs collection information: https://archives.colorado.edu/repositories/2/resources/958
 
 ## Notes
