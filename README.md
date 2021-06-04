@@ -48,16 +48,12 @@ Statement in collection: This Item is protected by copyright and/or related righ
 Rights statement comes from [rightsstatements.org](https://rightsstatements.org/page/1.0/?language=en)
 ### dateCreated
 The date of creation of the resource. Date ranges include: 1950s-1990s.
-### dateIssued
-The date that the resource was published, released, or issued. Date ranges include:
 ### formatPhysical
 A particular physical presentation of a resource, including the physical form or medium of material for a resource. Format ranges from 1/4 inch audio cassette, 1/4 inch audio tape, and VHS.
 ### formatDigital
 Standard that indicates the nature and format of a document, file, or assortment of bytes. The [Internet Assigned Numbers Authority (IANA)](https://www.iana.org/assignments/media-types/media-types.xhtml) is responsible for all official MIME. 
 
 Media type(s) in this collection: audio/mpeg
-### formatLocation
-Shelfmark or other shelving designation that indicates the location identifier for a resource. Example: COU:3805
 ### formatMediaType
 A term that specifies the characteristics and general type of content of the resource. Type terms used in this collection include: Sound
 ### formatGenerations
@@ -66,39 +62,28 @@ Audio/Original recording
 MPEG Audio
 ### formatEncoding
 mp3
-### formatFileSize
-The size or scale of the work.
-### formatTimeStart
-
-### formatDuration
-Most recordings range from 40 minutes to 2 hours.
 ### formatDataRate
 128 kbps
 ### formatBitDepth
 16 bits
 ### formatSamplingRate
 44.1 kHz
-### formatFrameSize
-### formatAspectRatio
-### formatFrameRate
-### formatColors
 ### formatTracks
 1 audio track
 ### formatChannelConfiguration
 dual-channel mono
 ### language
-English
-### alternativeModes
+Contains the textual or coded form for the language of the content of the resource. Language(s) seen in this collection include: English
 ### formatIdentifier
+Link to the digital file.
 ### formatIdentifierSource
-### annotation
-### extension
-### extensionAuthorityUsed
+CWA/Archives, University of Colorado at Boulder
 
 ## Resources
 Conference on World Affairs webpage; including archival programs from 2014-Present: https://www.colorado.edu/cwa/
 
-ArchivesSpace at CU Boulder; Conference on World Affairs collection information: https://archives.colorado.edu/repositories/2/resources/958
+For more information about this collection visit the webpage at the CU Boulder ArchivesSpace; [Conference on World Affairs collection](https://archives.colorado.edu/repositories/2/resources/958).
+
 
 ## Notes
 Please note that the metadata contained in this repository may not be the most up to date, but is updated on a continuing basis.
